@@ -1,6 +1,8 @@
 #Readme
 This is a Custom Policy SPI for Keycloak. To build this into a jar, use `mvn clean package`.
 
+Note: You'll have to ensure that your client has access to make this change. 
+
 ## Adding this Policy to a client
 
 ```bash
